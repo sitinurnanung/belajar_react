@@ -7,3 +7,4 @@ const sapaModern = (nama) => {
 }
 
 console.log(sapaModern("Budi"));
+// update dari terminal
